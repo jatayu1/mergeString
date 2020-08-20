@@ -28,3 +28,5 @@ if (str1.length > str2.length) {
   }
   console.log(arr.join(""));
 }
+
+alert("congrates done");
